@@ -35,8 +35,8 @@
 
 <p align="center">
 <!--a href="https://www.fedecatala.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a-->
-<a href="https://www.https://www.linkedin.com/in/federico-catal%C3%A1-ortmann/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:catalafederico@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.https://www.linkedin.com/in/federico-catal%C3%A1-ortmann/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Federico%20Catalá%20Ortmann-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:catalafederico@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-catalafederico@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [catalafederico](https://github.com/catalafederico)
